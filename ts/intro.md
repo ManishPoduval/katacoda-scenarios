@@ -6,4 +6,4 @@
 
 `touch newFile.js`{{execute}}
 
-`newFile.js`{{open}}
+`test.js`{{open}}
